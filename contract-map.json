@@ -4927,5 +4927,12 @@
     "erc20": true,
     "symbol": "HOPPY",
     "decimals": 9
+  },
+  "0x345207814c0304f6bD3b28E42c09450d95B5DbB2": {
+    "name": "stickbug",
+    "logo": "StickbugLogo.svg",
+    "erc20": true,
+    "symbol": "stickbug",
+    "decimals": 4
   }
 }
